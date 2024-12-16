@@ -1,0 +1,32 @@
+	color-a	color-b		color(i)					
+Burgundy	95+	90+							
+Cherry	88-94	83-89							
+Pumpkin	81-87	76-82							
+Gold	74-80	69-75							
+Forest	67-73	62-68							
+Deep Forest	60-66	55-61							
+Teal	53-59	48-54							
+Blue Moon	46-52	41-47							
+Smoke	39-45	34-40							
+Blue Haze	32-38	27-33					in range includes lower excludes upper limit		
+Royal Blue	25-31	20-26				color-b		HEX #	RGB
+Lapis or Sapphire	18-24	13-19		0	Burgundy	90+		7B2233	
+Plum	17 and under	12 and under		1	Cherry	83-89		BD362C	
+				2	Pumpkin	76-82		EF6430	
+				3	Gold	69-75		F5A631	
+				4	Forest	62-68		88864C	
+				5	Deep Forest	55-61		6D5C4F	
+				6	Teal	48-54		2E757E	
+				7	Blue Moon	41-47		506985	
+				8	Smoke	34-40		CFD5DD	
+				9	Blue Haze	27-33		ABCFDA	
+				10	Royal Blue	20-26		012A6E	
+				11	Lapis	13-19		29355C	
+				12	Plum	12 and under		866C80	
+				13	White			FFFFFF	
+How much yarn?									
+white	1 skein	17 rows	9.176470588	m/row					
+color	1 skein	13 rows	12	m/row					
+									
+length vanna	156 m								
+length impecc	260 m								

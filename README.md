@@ -1,5 +1,5 @@
 # Temperature Blanket
-Information used to generate a temperature blanket crochet pattern. The date range for this project is August 14, 2020 to August 14, 2024. For each day, the color used to crochet the given row is based on the recorded high temperature. Based on this range, the program will return the appropriate color of yarn to use, plot a graphic of the blanket colors, and the approximate project cost.
+This project was an attempt to combine my fiber arts hobbies with programming to generate a temperature blanket crochet pattern. A temperature blanket is a blanket where a new row is crocheted each day for one year. For each day, the color used to crochet the given row is based on the recorded high temperature. Based on this range, the program will return the appropriate color of yarn to use, plot a graphic of the blanket colors, and the approximate project cost. This blanket is for my first year living in Ann Arbor, MI from Aug 14, 2020 to Aug 14, 2021.
 
 ## Packages
 csv, pandas, matplotlib

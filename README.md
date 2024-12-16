@@ -8,6 +8,7 @@ csv, pandas, matplotlib
 For each day, crochet the row as a moss stich with a size 4.5 mm hook. For the month break, crochet 2 rows of white half-double crochets with a size 5.5 mm hook.
 
 ## Future Improvements
-Use a weather API to automatically grab the historic temperature data.
+- Use a weather API to automatically grab the historic temperature data.
+- Allow user to input data range
 
 

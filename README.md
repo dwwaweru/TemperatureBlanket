@@ -1,5 +1,5 @@
 # Temperature Blanket
-Information used to generate a temperature blanket crochet pattern. The date range for this project is August 4, 2020 to August 4, 2024. For each day, the color used to crochet the given row is based on the recorded high temperature. Based on this range, the program will return the appropriate color of yarn to use and the approximate project cost.
+Information used to generate a temperature blanket crochet pattern. The date range for this project is August 4, 2020 to August 4, 2024. For each day, the color used to crochet the given row is based on the recorded high temperature. Based on this range, the program will return the appropriate color of yarn to use, plot a graphic of the blanket colors, and the approximate project cost.
 
 ## Packages
 csv, pandas, matplotlib
